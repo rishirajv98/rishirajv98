@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rishirajv98
+- 👀 I’m interested in salesforce
+- 🌱 I’m currently learning LWC
