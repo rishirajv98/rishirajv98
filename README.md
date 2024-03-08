@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Rishiraj Vaishnav
-- 👀 I’m interested in salesforce
-- 🌱 I’m currently learning LWC
+
